@@ -13,7 +13,7 @@ Assignments are graded either A-F or Pass/Fail.
   - **Techniques:** Functions, arrays of objects, `Math.random`and `Math.floor`, `if`/`else`, `alert`, and removing elements
     from the page.
   - **Win and lose conditions:** Detecting when all heroes are dead or the dragon is defeated.
-  - **Extra features:** Additional features chosen by the group.
+  - **Extra features:** Hero and dragon names and HP shown on the page, life bars that shrink as HP drops, and defeated heroes      removed from the page.
 
   **Grade:** Pending
 
