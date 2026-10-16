@@ -1,6 +1,7 @@
 # Semester 1 (Autumn 2026)
 
 In semester 1 will some of the work be written in Norwegian.
+From semester 2 onwards, everything will be written in English.
 
 ## Courses
 
