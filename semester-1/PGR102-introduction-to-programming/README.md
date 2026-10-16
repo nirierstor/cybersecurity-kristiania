@@ -15,15 +15,15 @@ Assignments are graded either A-F or Pass/Fail.
   - **Win and lose conditions:** Detecting when all heroes are dead or the dragon is defeated.
   - **Extra features:** Additional features chosen by the group.
 
-**Grade:** Pending
+  **Grade:** Pending
 
 - [Assignment 2](assignments/assignment-2/): Coming soon.
 
-**Grade:** Pending
+  **Grade:** Pending
 
 - [Assignment 3](assignments/assignment-3/): Coming soon.
 
-**Grade:** Pending
+  **Grade:** Pending
 
 ## Notes
 
