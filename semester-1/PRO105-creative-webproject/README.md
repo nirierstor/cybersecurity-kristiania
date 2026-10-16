@@ -19,12 +19,12 @@ Assignments are graded A-F or Pass/Fail.
 
 - Assignment 2
 
-**Grade:** Pending
+  **Grade:** Pending
 
 - Assignment 3
 
-**Grade:** Pending
+  **Grade:** Pending
 
-  ## Notes
+## Notes
 
-  Coming soon.
+Coming soon.
