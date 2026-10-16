@@ -17,11 +17,11 @@ Assignments are graded either A-F or Pass/Fail.
 
 **Grade:** Pending
 
-- [Assignment 2](assignments/assignment-2/
+- [Assignment 2](assignments/assignment-2/): Coming soon.
 
 **Grade:** Pending
 
-- [Assignment 3](assignments/assignment-3/
+- [Assignment 3](assignments/assignment-3/): Coming soon.
 
 **Grade:** Pending
 
