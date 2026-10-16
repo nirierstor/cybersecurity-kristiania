@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" width="400" height="520">
+  <!-- Flaggstang -->
+  <rect x="20" y="10" width="8" height="245" rx="3" fill="#c9ccd1"/>
+  <rect x="20" y="10" width="3" height="245" rx="1.5" fill="#eef0f3"/>
+  <circle cx="24" cy="10" r="7" fill="#e0b300"/>
+  <!-- Flagget (Sverige: 16 x 10, kors 5-2-9 / 4-2-4) -->
+  <g transform="translate(28 20)">
+    <rect width="160" height="100" fill="#006AA7"/>
+    <rect x="50" width="20" height="100" fill="#FECC02"/>
+    <rect y="40" width="160" height="20" fill="#FECC02"/>
+  </g>
+</svg>

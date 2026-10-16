@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Svart hull</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <!--Tittel-->
+    <header>
+        <h1>Svarte hull</h1>
+    </header>
+
+    <!--Verdensrommet med solen, jorden, romskipet og svart hull-->
+    <main class="rommet">
+        <!--Checkbox som blir checket av når man trykker på romskipet-->
+        <input type="checkbox" id="start-reise" class="start-reise">
+
+        <!--Stjerner som skal blinke-->
+        <div class="stjerner">
+            <div class="stjerne1"></div>
+            <div class="stjerne2"></div>
+            <div class="stjerne3"></div>
+            <div class="stjerne4"></div>
+            <div class="stjerne5"></div>
+            <div class="stjerne6"></div>
+            <div class="stjerne7"></div>
+            <div class="stjerne8"></div>
+            <div class="stjerne9"></div>
+            <div class="stjerne10"></div>
+            <div class="stjerne11"></div>
+            <div class="stjerne12"></div>
+            <div class="stjerne13"></div>
+            <div class="stjerne14"></div>
+            <div class="stjerne15"></div>
+            <div class="stjerne16"></div>
+            <div class="stjerne17"></div>
+            <div class="stjerne18"></div>
+            <div class="stjerne19"></div>
+            <div class="stjerne20"></div>
+        </div>
+
+        <!--Stjerneskudd-->
+        <div class="stjerneskudd">
+            <div class="sskudd1"></div>
+            <div class="sskudd2"></div>
+            <div class="sskudd3"></div>
+            <div class="sskudd4"></div>
+            <div class="sskudd5"></div>
+            <div class="sskudd6"></div>
+            <div class="sskudd7"></div>
+        </div>
+
+        <!--Solen lages med css-->
+        <div class="sol"></div>
+
+        <!--Måne lages med css-->
+        <div class="mone">
+            <div class="monesteiner">
+                <div class="mones1"></div>
+                <div class="mones2"></div>
+                <div class="mones3"></div>
+            </div>
+        </div>
+        <!--PNG av jorden-->
+        <img src="images/jorden.png" alt="Jorden sett fra verdensrommet" class="jord">
+
+        <!--Romskipet ligger i en label, så et klikk på det checker boksen-->
+        <label for="start-reise" class="romskip">
+            <img src="images/romskip.png" alt="Et grått og rødt romskip klar til å gå inn i det svarte hullet">
+        </label>
+
+        <!--Hint for å starte animasjon-->
+        <p class="hint">Trykk på romskipet for å starte reisen</p>
+
+        <!--Det svarte hullet med knappen som dukker opp etter animasjonen-->
+        <div class="svart-hull">
+            <img src="images/svart-hull.png" alt="Et svart hull med glødende ring rundt">
+            <a href="main.html" class="start-knapp">Følg romskipet</a>
+        </div>
+
+        <!--Svensk flagg på månen-->
+        <img src="images/flagg.svg" alt="Svensk flagg" class="svensk-flagg">
+    </main>
+</body>
+</html>
