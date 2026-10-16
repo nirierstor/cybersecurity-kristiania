@@ -16,7 +16,7 @@ Assignments are graded either A-F or Pass/Fail.
   FTP and packet analysis, documented with annotated screenshots.
   - **Linux Terminal:** Created and navigated folders, wrote and appended to files with redirection, printed file
       contents and copied files.
-  - **SMTP and Wireshark:** Captured traffic on the local MailHog test server. Analysed the TCP handshake, flags,
+  - **SMTP and Wireshark:** Captured traffic on the loopback interface while sending an email by hand over SMTP to a local           MailHog test server. Analysed the TCP handshake, flags,
       the message data and the SMTP reply codes, and the packets that close the connection.
   - **FTP:** Transferred a file from a public FTP test server and captured the session in Wireshark.
   - **Protocol layers:** Identified the application, transport and network layer in a captured packet, including protocols,
@@ -24,7 +24,7 @@ Assignments are graded either A-F or Pass/Fail.
   - **TCP header:** Filled in the TCP header fields from a real packet.
   - **Presentation:** Presented our findings to other groups and supervisors.
 
-  **Grade:** 
+  **Grade:** Pending
  
 ## Notes
 
