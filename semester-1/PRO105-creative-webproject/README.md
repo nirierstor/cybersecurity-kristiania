@@ -15,7 +15,7 @@ Assignments are graded A-F or Pass/Fail.
   - **Code standards:** Followed a code-standards table and semantic HTML (header, nav, main, footer).
   - **Constraints:** No JavaScript, no frameworks, and only an approved list of HTML tags and CSS properties.
 
-  **Grade:** Pending
+  **Grade:** Pass
 
 - [Assignment 2](assignments/assignment-2/): Coming soon.
 
