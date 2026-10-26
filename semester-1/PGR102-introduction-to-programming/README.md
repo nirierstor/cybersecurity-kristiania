@@ -15,7 +15,7 @@ Assignments are graded either A-F or Pass/Fail.
   - **Win and lose conditions:** Detecting when all heroes are dead or the dragon is defeated.
   - **Extra features:** Hero and dragon names and HP shown on the page, life bars that shrink as HP drops, and defeated heroes      removed from the page.
 
-  **Grade:** Pending
+  **Grade:** Pass
 
 - [Assignment 2](assignments/assignment-2/): Coming soon.
 
