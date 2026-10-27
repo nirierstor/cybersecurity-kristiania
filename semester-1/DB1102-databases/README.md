@@ -10,7 +10,7 @@ Assignments are graded with either A-F or Pass/Fail.
   a game-themed project and wrote the SQL to create the schema, insert data and
   query it. Includes a PDF report with the database design.
 
-  **Grade:** Pending
+  **Grade:** Pass
 
 - [Assingment 2](assignments/assignment-2/): Coming soon.
 
